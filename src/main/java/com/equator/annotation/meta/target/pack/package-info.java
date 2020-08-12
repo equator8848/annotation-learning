@@ -3,6 +3,6 @@
  */
 @Deprecated
 @PackageAnnotation("包")
-package com.equator.annotation.custom.target.pack;
+package com.equator.annotation.meta.target.pack;
 
-import com.equator.annotation.custom.target.PackageAnnotation;
+import com.equator.annotation.meta.target.PackageAnnotation;

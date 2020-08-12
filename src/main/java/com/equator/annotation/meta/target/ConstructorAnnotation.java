@@ -1,4 +1,4 @@
-package com.equator.annotation.custom.target;
+package com.equator.annotation.meta.target;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;

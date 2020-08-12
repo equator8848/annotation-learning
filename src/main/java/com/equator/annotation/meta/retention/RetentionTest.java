@@ -1,6 +1,5 @@
-package com.equator.annotation.custom.retention;
+package com.equator.annotation.meta.retention;
 
-import java.lang.annotation.Retention;
 import java.lang.reflect.Method;
 
 public class RetentionTest {

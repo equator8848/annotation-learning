@@ -1,6 +1,6 @@
-package com.equator.annotation.custom.target;
+package com.equator.annotation.meta.target;
 
-import com.equator.annotation.custom.target.pack.PackageMethod;
+import com.equator.annotation.meta.target.pack.PackageMethod;
 
 /**
  * package-info.java上的@Deprecated注解并不影响包下类的方法

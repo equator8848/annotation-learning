@@ -1,4 +1,4 @@
-package com.equator.annotation.custom.target.pack;
+package com.equator.annotation.meta.target.pack;
 
 public class PackageMethod {
     public void test1() {
